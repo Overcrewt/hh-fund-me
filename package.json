@@ -17,7 +17,7 @@
     "ethers": "^5.7.1",
     "hardhat": "^2.11.2",
     "hardhat-deploy": "^0.11.16",
-    "hardhat-gas-reporter": "^1.0.8",
+    "hardhat-gas-reporter": "^1.0.9",
     "hardhat-waffle": "^0.0.1-security",
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.8.0",
